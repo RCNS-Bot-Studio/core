@@ -4,7 +4,7 @@ import os
 
 class Config:
     
-    T = "OTYyNjEzMTY1NzM1MTQ5NjE4.GqHc5B.ocKzHB_5ek7EdItP2zoV59qKPTQn1Wd9xPi9jE"
+    T = "token"
     mamager_list = [712838792595112006, 759911041659306024]
 
     def __init__(self):
